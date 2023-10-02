@@ -1,3 +1,9 @@
+# ugh mac fs
+.DS_Store
+
+# QR Code Files
+public/images/*
+
 # Logs
 logs
 *.log
