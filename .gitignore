@@ -1,6 +1,10 @@
 # ugh mac fs
 .DS_Store
 
+# dont backup all the images
+public/businesscards/*
+public/qr-codes/*
+
 # QR Code Files
 public/images/*
 
